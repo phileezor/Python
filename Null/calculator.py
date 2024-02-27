@@ -8,7 +8,7 @@ z = x / y
 print(f"{z:.2f}")
 """
 
-# elevated calculator
+# Elevated calculator
 def main():
     x = int(input("What's x? "))
     print("x squared is", square(x))

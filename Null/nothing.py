@@ -19,5 +19,5 @@ print("\n\nHello,", name, "what brings you here?"
 # docs.python.org
 
 
-# arguments - actual function pass
-# parameter - potential function pass
+# Arguments - actual function pass
+# Parameter - potential function pass
