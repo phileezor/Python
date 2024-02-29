@@ -1,4 +1,4 @@
-# A better calculator - Using Unit Test
+# A better calculator - Using Unit Testing & Pytest
 
 def main():
     x = int(input("What's x? "))
@@ -6,7 +6,7 @@ def main():
 
 
 def square(n):
-    return n + n
+    return n * n
 
 if __name__ == "__main__":
     main()
